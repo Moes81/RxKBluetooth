@@ -4,7 +4,7 @@ This lib is NOT tested! Do not use it for production code!
 
 Any contribution is welcome!
 
-Exmaple implementaion of a `DeviceComunicator` class in Kotlin
+Exaple implementaion of a `DeviceComunicator` class in Kotlin
 
 ```kotlin
 class DeviceCommunicator(private val bluetoothService: IBluetoothService) {
